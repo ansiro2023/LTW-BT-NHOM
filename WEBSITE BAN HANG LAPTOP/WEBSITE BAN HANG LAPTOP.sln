@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBSITE BAN HANG LAPTOP", "WEBSITE BAN HANG LAPTOP\WEBSITE BAN HANG LAPTOP.csproj", "{92C65F7B-AD15-47F9-8157-7230A1F00552}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBSITE BAN HANG LAPTOP", "WEBSITE BAN HANG LAPTOP\WEBSITE BAN HANG LAPTOP.csproj", "{D223DF9F-CBA2-4565-B675-0BE73DCFC7C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{92C65F7B-AD15-47F9-8157-7230A1F00552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92C65F7B-AD15-47F9-8157-7230A1F00552}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92C65F7B-AD15-47F9-8157-7230A1F00552}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92C65F7B-AD15-47F9-8157-7230A1F00552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D223DF9F-CBA2-4565-B675-0BE73DCFC7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D223DF9F-CBA2-4565-B675-0BE73DCFC7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D223DF9F-CBA2-4565-B675-0BE73DCFC7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D223DF9F-CBA2-4565-B675-0BE73DCFC7C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C63BC44E-0724-4B91-BC3C-9A76F0F6DED0}
+		SolutionGuid = {418D915C-0E96-4F86-BBC2-CDD838FF964F}
 	EndGlobalSection
 EndGlobal
